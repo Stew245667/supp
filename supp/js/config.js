@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "GCS | Revolutionary RP";
+var l_serverName = "GCS | American Revolutionary War";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,18 +50,13 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/americanwar1.jpg",
+	"backgrounds/images/americanwar1jpg",
 	"backgrounds/images/americanwar2.jpg",
 	"backgrounds/images/americanwar3.jpg",
 	"backgrounds/images/americanwar4.jpg",
 	"backgrounds/images/americanwar5.jpg",
 	"backgrounds/images/americanwar6.jpg",
-	"backgrounds/images/americanwar7.jpg",
-	"backgrounds/images/americanwar8.jpg",
-	"backgrounds/images/americanwar9.jpg"
 ]
-
-
 
 /*Random background images order?*/
 var l_bgImagesRandom = true;
@@ -88,12 +83,11 @@ var l_bgDarkening = 50;
 var l_music = true;
 
 /*Display actual song's name?*/
-var l_musicDisplay = false;
+var l_musicDisplay = true;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	(ogg: "backgrounds/images/song1.ogg", name: "Theme 1")
 ];
 
 /*Random music order?*/
@@ -101,27 +95,27 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 2;
+var l_musicVolume = 5;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Fun Fact #6 : Snow is awesome in the map.",
-"We have a day/night system.. but also an automatic weather system as well!",
-"Fun Fact #5 : Instead of one default bridge, there are many to flank and theorize plans!",
-"Random Fact : I'm kidding there isn't one.",
-"Random Fact : There is a random fact.",
-"Random Fact : There is no random fact.",
-"Fun Fact #4 : Our server is set in a small town not too far from New York.",
-"Fun Fact #3 : The French supported the US, until they had full independence from Great Britain.",
-"Fun Fact #2 : George Washington's teeth was not made out of wood.",
-"Fun Fact #1 : Did you know the American Revolutionary War started around 1775. The server is set in 1777!"
+"Bienvenue sur Votre serveur Rp",
+"Merci de ne pas Freekill / Propskill",
+"Merci de Ne pas faire de Métagaming",
+"Merci de Ne pas Insulter",
+"Merci de Réspecter le NLR",
+"Merci de Ne pas Use Bug",
+"Merci de Jouer RP",
+"Merci de ne pas Déco pendant une Scène RP",
+"Amusez vous bien sur Votre Serveur !",
+"Pour Plus D'Infos rendez vous sur notre forum: lien du forum"
 ];
 
 /*Random message order?*/
-var l_messagesRandom = true;
+var l_messagesRandom = false;
 
 /*Delay between message changes
 in milliseconds*/
