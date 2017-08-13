@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "GCS | American Revolutionary War";
+var l_serverName = "GCS | Revolutionary War";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
