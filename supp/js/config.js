@@ -93,10 +93,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	"0RJcFCha9JE",
-	"QLc-2Ro3rv0",
-	"U9lFV6snF44",
-	"G37EtC1tC58"
+	(ogg: "songs/song1.ogg")
 ];
 
 /*Random music order?*/
