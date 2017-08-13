@@ -102,16 +102,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Bienvenue sur Votre serveur Rp",
-"Merci de ne pas Freekill / Propskill",
-"Merci de Ne pas faire de Métagaming",
-"Merci de Ne pas Insulter",
-"Merci de Réspecter le NLR",
-"Merci de Ne pas Use Bug",
-"Merci de Jouer RP",
-"Merci de ne pas Déco pendant une Scène RP",
-"Amusez vous bien sur Votre Serveur !",
-"Pour Plus D'Infos rendez vous sur notre forum: lien du forum"
+"Weather System!",
+"Enjoy our server.",
+"Fun Fact #2 : George Washington did not have wooden teeth.",
+"Fun Fact #1 : The French helped and supported the Americans until they were fully independent from the British.",
+"Fun Fact #3 : Our server is set in the year 1777, in a town not too far from New York."
 ];
 
 /*Random message order?*/
