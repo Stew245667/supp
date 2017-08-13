@@ -59,7 +59,7 @@ var l_bgImages = [
 	"backgrounds/images/americanwar7.jpg",
 	"backgrounds/images/americanwar8.jpg",
 	"backgrounds/images/americanwar9.jpg",
-	"backgrounds/images/americanwar10.jpg"
+	"backgrounds/images/americanwar10.jpg",
 ]
 
 /*Random background images order?*/
