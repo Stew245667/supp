@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "";
+var l_serverName = "GCS | American Revolution RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -88,7 +88,7 @@ var l_bgDarkening = 50;
 var l_music = true;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
